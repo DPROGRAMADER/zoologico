@@ -1,0 +1,10 @@
+El proyecto tiene dos clases: Animal y Zoologico.
+El programa principal se define en la clase Zoologico.
+Dos objetos de la clase Animal se crean en la clase principal (Zoologico).
+La clase Animal tiene cuatro atributos: nombreAnimal, generoAnimal, pesoAnimal y parejaAnimal.
+El atributo parejaAnimal de la clase Animal no es primitivo, ya que es de tipo Animal.
+Si eliminamos la línea 17 de la clase Zoologico, la primera instancia de Animal no tendría pareja y, por lo tanto, no se formaría una familia.
+No se puede determinar el número de métodos de la clase Familia ya que el código de la clase no se proporcionó.
+El número de parámetros del método tenerHijo() de la clase Familia tampoco se puede determinar ya que el código de la clase no se proporcionó.
+El constructor de la clase Familia inicializa dos atributos de tipo Animal que representan a los padres de la familia.
+El método tenerHijo() de la clase Familia no tiene un tipo de retorno ya que no devuelve nada (void).
